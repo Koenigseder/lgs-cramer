@@ -1,4 +1,4 @@
-# LGS Cramer
+# LGS Cramer <img src="https://github.com/Koenigseder/lgs-cramer/blob/master/app/src/main/ic_launcher-playstore.png" alt="logo" width=50 />
 
 |                                               Light mode                                                |                                                Dark mode                                                |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
