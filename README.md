@@ -1,8 +1,8 @@
 # LGS Cramer
 
-<img src="https://github.com/Koenigseder/lgs-cramer/blob/master/screen0.png" alt="screen0" width=150 />
-
-<img src="https://github.com/Koenigseder/lgs-cramer/blob/master/screen1.png" alt="screen1" width=150 />
+|                                               Light mode                                                |                                                Dark mode                                                |
+| :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/Koenigseder/lgs-cramer/blob/master/screen0.png" alt="screen0" width=150 /> | <img src="https://github.com/Koenigseder/lgs-cramer/blob/master/screen1.png" alt="screen1" width=150 /> |
 
 There are different methods to solve a linear system of equations. One of them is Cramer's rule, also called the determinant method. With the help of Cramer's rule, equation systems with any number of unknowns can be solved. Only requirement is that there has to be as many equations as unknowns.
 
